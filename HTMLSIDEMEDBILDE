@@ -1,13 +1,13 @@
-
-<!DOCTYPE html>
-<html>
-<head>BEST FOTBALLPLAYERS
-<title>Min Første Nettside</title>
-</head>BEST FOTBALLPLAYERS
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
 <body>
-<h1>Velkommen til min nettside</h1>
-<p>Dette er en enkel nettside laget med HTML.</p>
-<img src=c:\Users\admin\Desktop\f32a20235b7c8a97cf370120f607bbb8a78f1dbe.webp alt="Et bilde">
-<a href="https://www.example.com">Gå til eksempelnettstedet</a>
+    Min første side
+    <img src=c:\Users\admin\Desktop\f32a20235b7c8a97cf370120f607bbb8a78f1dbe.webp alt="Et bilde">
+    
 </body>
 </html>
