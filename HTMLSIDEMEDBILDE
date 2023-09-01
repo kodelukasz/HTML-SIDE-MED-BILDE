@@ -7,7 +7,7 @@
 <body>
 <h1>Velkommen til min nettside</h1>
 <p>Dette er en enkel nettside laget med HTML.</p>
-<img src="c:\Users\admin\Desktop\f32a20235b7c8a97cf370120f607bbb8a78f1dbe.webp" alt="Et bilde">
+<img src=c:\Users\admin\Desktop\f32a20235b7c8a97cf370120f607bbb8a78f1dbe.webp alt="Et bilde">
 <a href="https://www.example.com">Gå til eksempelnettstedet</a>
 </body>
 </html>
